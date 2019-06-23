@@ -1,2 +1,1 @@
-# Earthquake-data-visualisation
-Earthquake-data-visualisation
+#Wall breakers practice
