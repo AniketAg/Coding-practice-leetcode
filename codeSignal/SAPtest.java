@@ -4,11 +4,12 @@ public class SAPtest
 {
     public static void main(String args[])
     {
+       /*
         String str = "abababababbbab";
         String sub = "wew";
-        if (str.isEmpty() || sub.isEmpty()) {
+        if (str.isEmpty() || sub.isEmpty()) 
            System.out.println("aa");
-       }
+       
         int count = 0;
         int idx = 0;
         while ((idx = str.indexOf(sub, idx)) != -1) {
@@ -17,7 +18,7 @@ public class SAPtest
         }
         System.out.println(count);
         
-        
+        */
         /*
         int[] arr1 = new int[]{1,2,3,4,5};
         int[] arr2 = new int[]{6,7,8,9,10};
